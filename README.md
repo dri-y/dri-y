@@ -1,16 +1,43 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**dri-y/dri-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Geaniny Adriane, graduanda em Engenharia Elétrica pelo Instituo Federal de Educação, Ciências e Tecnologia da Paraíba (IFPB). 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em programação e no desenvolvimento de soluções aplicadas em pesquisas à Engenharia Elétrica, especialmente em sistemas embarcados, IoT, automação e tecnologia.
+
+🔬 Áreas de interesse
+
+- Sistemas embarcados
+- IoT e automação
+- Programação
+- Sistemas de monitoramento
+- Inteligência Artificial
+
+💻 Tecnologias
+
+Linguagens:
+C/C++ · Python (em aprendizado)
+
+Hardware:
+Arduino · ESP32 · Sensores · Atuadores
+
+Ferramentas:
+Git · GitHub · Arduino IDE · VS Code · Wokwi
+
+🚀 Projetos
+
+🔐 Projeto Cofre
+
+Sistema de cofre eletrônico desenvolvido em C++ e Arduino, utilizando teclado matricial, display LCD I2C, servo motor, buzzer e controle de usuários.
+
+O projeto também possui registro de acessos e diferentes níveis de autorização.
+
+🔌 Smart-Socket
+
+Protótipo de tomada inteligente desenvolvido com ESP32 para proteção infantil.
+
+O sistema utiliza sensor ultrassônico para detectar aproximações de risco, acionando um relé para interromper a alimentação simulada e um buzzer para sinalização.
+
+🌱 Atualmente
+
+Aprofundando meus conhecimentos em programação, sistemas embarcados, IoT e desenvolvimento de aplicações voltadas à pesquisa e à Engenharia Elétrica.
