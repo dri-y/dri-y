@@ -18,7 +18,7 @@ Meu objetivo é continuar desenvolvendo minhas habilidades técnicas e adquirind
 ## 🤖 Linguagens & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,github,vscode" />
 </p>
 
 ---
