@@ -1,4 +1,4 @@
-Olá! 👋
+#🪪Geaniny Adriane Lira 
 
 Sou Geaniny Adriane, graduanda em Engenharia Elétrica pelo Instituo Federal de Educação, Ciências e Tecnologia da Paraíba (IFPB). 
 
