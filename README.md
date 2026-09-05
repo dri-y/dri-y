@@ -1,43 +1,82 @@
-#🪪Geaniny Adriane Lira 
+# 👩‍💻 Geaniny Adriane Lira de Almeida
 
-Sou Geaniny Adriane, graduanda em Engenharia Elétrica pelo Instituo Federal de Educação, Ciências e Tecnologia da Paraíba (IFPB). 
+> Estudante de Engenharia Elétrica | Programação | Eletrônica | Sistemas Embarcados
 
+---
 
-Tenho interesse em programação e no desenvolvimento de soluções aplicadas em pesquisas à Engenharia Elétrica, especialmente em sistemas embarcados, IoT, automação e tecnologia.
+## 👩‍💻 Quem eu sou
 
-🔬 Áreas de interesse
+Olá! Me chamo Geaniny e sou estudante de **Engenharia Elétrica**.
 
+Tenho interesse por tecnologia, programação e eletrônica, buscando unir os conhecimentos adquiridos na graduação com projetos práticos.
+
+Atualmente, venho desenvolvendo projetos envolvendo **C++, Arduino, ESP32, sistemas embarcados e GitHub**, além de estudar conceitos relacionados à programação e engenharia.
+
+Meu objetivo é continuar desenvolvendo minhas habilidades técnicas através de projetos que possam transformar conhecimentos teóricos em soluções práticas.
+
+---
+
+## 🤖 Linguagens & Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,git,github,vscode,html,css" />
+</p>
+
+---
+
+## 🔧 Projetos
+
+### 🔐 Projeto Cofre
+
+Sistema de cofre eletrônico desenvolvido utilizando:
+
+- Arduino
+- C++
+- Servo motor
+- Display LCD
+- Teclado matricial
+- Buzzer
+- Sensor de fim de curso
+
+O projeto possui sistema de autenticação, gerenciamento de usuários e histórico de acessos.
+
+### 🔌 Tomada Inteligente
+
+Protótipo de sistema de proteção para tomadas utilizando:
+
+- ESP32
+- Sensor ultrassônico
+- Relé
+- Buzzer
+- Botões
+- Comunicação com aplicativo
+
+O objetivo é detectar aproximações e interromper a alimentação da tomada, permitindo que apenas uma pessoa responsável reative o sistema.
+
+---
+
+## 📚 Atualmente estudando
+
+- C++
+- Python
+- Estruturas de dados
+- Programação orientada a objetos
+- Eletrônica
 - Sistemas embarcados
-- IoT e automação
-- Programação
-- Sistemas de monitoramento
-- Inteligência Artificial
+- ESP32
+- Redes neurais
+- Git & GitHub
 
-💻 Tecnologias
+---
 
-Linguagens:
-C/C++ · Python (em aprendizado)
+## 📱 Entre em contato comigo
 
-Hardware:
-Arduino · ESP32 · Sensores · Atuadores
+<p align="left">
+  <a href="SEU_LINK_DO_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-Ferramentas:
-Git · GitHub · Arduino IDE · VS Code · Wokwi
-
-🚀 Projetos
-
-🔐 Projeto Cofre
-
-Sistema de cofre eletrônico desenvolvido em C++ e Arduino, utilizando teclado matricial, display LCD I2C, servo motor, buzzer e controle de usuários.
-
-O projeto também possui registro de acessos e diferentes níveis de autorização.
-
-🔌 Smart-Socket
-
-Protótipo de tomada inteligente desenvolvido com ESP32 para proteção infantil.
-
-O sistema utiliza sensor ultrassônico para detectar aproximações de risco, acionando um relé para interromper a alimentação simulada e um buzzer para sinalização.
-
-🌱 Atualmente
-
-Aprofundando meus conhecimentos em programação, sistemas embarcados, IoT e desenvolvimento de aplicações voltadas à pesquisa e à Engenharia Elétrica.
+  <a href="SEU_LINK_DO_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
