@@ -1,10 +1,10 @@
-# 👩‍💻 Geaniny Adriane Lira de Almeida
+# ⚙️ Geaniny Adriane Lira de Almeida
 
 > Estudante de Engenharia Elétrica | Programação | Eletrônica | Sistemas Embarcados
 
 ---
 
-## 👩‍💻 Quem eu sou
+## ⚡Quem eu sou
 
 Olá! Me chamo Geaniny e sou estudante de **Engenharia Elétrica**.
 
